@@ -1,2 +1,2 @@
-# pricing-card
-frontend exercise
+# Pricing Card
+I used html css js.
